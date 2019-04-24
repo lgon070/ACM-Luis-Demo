@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "813306152038",
+    "firebase_url": "https://acmappluisgonzalez.firebaseio.com",
+    "project_id": "acmappluisgonzalez",
+    "storage_bucket": "acmappluisgonzalez.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813306152038:android:4faf46a8321b83c6",
+        "android_client_info": {
+          "package_name": "com.example.acm_app_luisgonzalez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813306152038-veg5bmo963tbl0467pfo8rprg75v1f1f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acm_app_luisgonzalez",
+            "certificate_hash": "71fac38dcc3190cd1dc7f1e172447585729730c9"
+          }
+        },
+        {
+          "client_id": "813306152038-14rrrtqd7anbekaibl2hjcljfo8ka0co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYXCulvm2nvXEa4WBIf9yAUuOqBCwyIis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813306152038-14rrrtqd7anbekaibl2hjcljfo8ka0co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
